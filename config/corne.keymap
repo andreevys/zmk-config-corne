@@ -29,16 +29,6 @@
             bindings = <&kp DELETE>;
             key-positions = <21 22>;
         };
-
-        combo_printscreen {
-            bindings = <&kp UNDERSCORE>;
-            key-positions = <17 18>;
-        };
-
-        combo_star {
-            bindings = <&kp STAR>;
-            key-positions = <5 6>;
-        };
     };
 
     behaviors {
